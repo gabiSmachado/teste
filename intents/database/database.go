@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gabiSmachadob/intents/datamodel"
+	"github.com/gabiSmachado/intents/datamodel"
 	_ "github.com/go-sql-driver/mysql"
 )
 
